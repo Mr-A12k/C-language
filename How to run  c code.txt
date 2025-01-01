@@ -1,0 +1,7 @@
+//first compile the code with 
+
+gcc filename.c -o filename.exe
+
+//and type
+
+./filename.exe
